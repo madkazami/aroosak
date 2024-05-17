@@ -1,0 +1,11 @@
+nvm install node
+
+curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+
+rustup update stable
+
+rustc --version
+
+sudo apt install nodejs
+
+sudo apt install np
